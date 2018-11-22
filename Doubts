@@ -1,0 +1,7 @@
+Hello sir,
+Added 3 files- CleanedRE.csv, RE8, lm_reg
+In RE8, i have done univariate and bivariate analysis. In bivariate analysis p and f values are good for every variable, but if we see Price~Type, tukey analysis shows p-adj=0. Why it's showing 0?
+My observation according to chi-square is, p value is low, which is good for Type and CouncilArea, but p=1 for method, so method is not a good parameter
+In lm_reg R file, i have put by observations in comments, correlation is good for rooms, but while doing lm function on the same,.. 
+R adjusted is very low for rooms, infact every variable is showing very low adjusted r square value. Only suburb is showing 56% adjusted R square in TH dataset.
+Please check the code. I have not added my cleaned file(where i have performed subset) to avoid any confusion.
