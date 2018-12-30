@@ -4,4 +4,4 @@
 - Build linear & logistic regression models on sample for Price prediction
 - Validate the models on actuals
 - Classify the housing data into segments based on various dimensions, such as, Price, Distance & Suburbs (using SVM & Decision Trees)
-- Plotting the data on city map for visualization (to check the density of houses)
+- Plotting the data on city map for visualization (to check the density of houses).
