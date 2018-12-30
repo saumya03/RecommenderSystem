@@ -1,1 +1,1 @@
-<b> Melbourne Housing Project Segmentation And Recommender System </b>
+<b> "Analyzed residential real estate data of Melbourne--major metro in OZ, to explore the historical house prices by region. Also digged a bit deeper to look at which variable in the data impacted the house price in Melbourne".  </b>
