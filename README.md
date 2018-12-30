@@ -1,1 +1,1 @@
-<b> "Analyzed residential real estate data of Melbourne--major metro in OZ, to explore the historical house prices by region. Also digged a bit deeper to look at which variable in the data impacted the house price in Melbourne between 1890-2018".  </b>
+<h4> <b> "Analysis of Residential real estate data of Melbourne--major metro in OZ, to explore the historical house prices by region. Also digged a bit deeper to look at which variable in the data impacted the house price in Melbourne between 1890-2018".  </b> </h4>
